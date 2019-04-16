@@ -1,4 +1,6 @@
-# LessOrMore
+# Notice: This is just a Jekyll project for testing extended index building functions.
+
+Original: LessOrMore
 
 
 致谢
