@@ -1,6 +1,5 @@
 ---
 layout: post
-date:   2017-07-24 00:00:00 +0800
 categories: document
 tag: 教程
 ---
